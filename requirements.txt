@@ -1,0 +1,10 @@
+stos
+pandas
+numpy
+opencv-python
+numpy 
+pandas
+moviepy
+ffmpeg
+flask
+
